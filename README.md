@@ -4,6 +4,9 @@
 - 👨🏻‍💻 Desenvolvedor Full Stack
 - 📫 Contato: victorzarbesu@gmail.com
 
+
+![devtorugo GitHub stats](https://github-readme-stats.vercel.app/api?username=devtorugo&show_icons=true&theme=dracula)
+
 ## Tecnlogias que utilizo:
 
 <div style="display: inline_block"><br>
